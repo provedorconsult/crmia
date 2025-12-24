@@ -1,0 +1,9 @@
+vamos desenvolver um saas de gestão de pequenas empresas. Terá um gestor para cadastrar e habilitar as empresas.
+As empresas terão a gestão de usuários e colaboradores de varios niveis, clientes, serviços, produtos, Ordem de serviço, Agendamento, cadastro de LLM, Central de notificações, Templates de notificações com variaveis, Certificado de Execução de serviço com templates configuraveis com variaveis e imagens de assinatura.
+Integração com webhook n8n entre outros. 
+Leitor de documentos via upload ou camera do celular, identificar o documento e inserir os dados no sistema após confirmação.
+receber dados via api token de integrações como n8n e facilitar uma interface conversacional como apis de telegram e whatsapp.
+Ter um módulo de gestão de rotas de colaboradores externos, serviços em atendimentos, Profissional em rota de atendimento, notificação de colaboradores, supervisor e cliente em tempo real.
+Gestão de backup para a empresa em formato de facil leitura como pdf e planilhas xlsx.
+script de deploy facilitado para auto hospedagem em Debian 12 com supabase.
+Use mobile first, responsivo, collapse menu, compact mobile
